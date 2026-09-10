@@ -1,6 +1,6 @@
-# The Unpublishable Book Club
+# The Deplorable Book Club
 
-Public marketing site for **The Unpublishable Book Club** (GitHub Pages).
+Public marketing site for **The Deplorable Book Club** (GitHub Pages).
 
 ## Live URL
 
