@@ -1,2 +1,23 @@
-# unpublishable-book-club
-Unpublishable Book Club — GitHub Pages site
+# The Unpublishable Book Club
+
+Public marketing site for **The Unpublishable Book Club** (GitHub Pages).
+
+## Live URL
+
+Once Pages is enabled: [https://rhodirish-afk.github.io/unpublishable-book-club/](https://rhodirish-afk.github.io/unpublishable-book-club/)
+
+## Enable GitHub Pages
+
+1. Repo **Settings** → **Pages**
+2. **Build and deployment** → Source: **Deploy from a branch**
+3. Branch: **main** / folder: **/ (root)** → Save
+
+No custom domain yet — do not add a `CNAME` until one is purchased and DNS is ready.
+
+## Stack
+
+Static HTML + Tailwind CDN + small `assets/nav.js` hamburger. Site-root links are prefixed with `/unpublishable-book-club` so project Pages works at `username.github.io/unpublishable-book-club/`.
+
+## Contact
+
+myone_ie@hotmail.co.uk (Rory Hanrahan)
