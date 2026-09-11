@@ -1,22 +1,11 @@
-# The Deplorable Book Club
+# The Deplorable Book Club (moved)
 
-Public marketing site for **The Deplorable Book Club** (GitHub Pages).
+**This repository’s GitHub Pages site has moved.**
 
-## Live URL
+- **New repo:** [deplorable-book-club](https://github.com/rhodirish-afk/deplorable-book-club)
+- **Live URL:** [https://rhodirish-afk.github.io/deplorable-book-club/](https://rhodirish-afk.github.io/deplorable-book-club/)
 
-Once Pages is enabled: [https://rhodirish-afk.github.io/unpublishable-book-club/](https://rhodirish-afk.github.io/unpublishable-book-club/)
-
-## Enable GitHub Pages
-
-1. Repo **Settings** → **Pages**
-2. **Build and deployment** → Source: **Deploy from a branch**
-3. Branch: **main** / folder: **/ (root)** → Save
-
-No custom domain yet — do not add a `CNAME` until one is purchased and DNS is ready.
-
-## Stack
-
-Static HTML + Tailwind CDN + small `assets/nav.js` hamburger. Site-root links are prefixed with `/unpublishable-book-club` so project Pages works at `username.github.io/unpublishable-book-club/`.
+The pages here (`index.html` and other HTML) are short redirect/notice stubs so old bookmarks and morning visitors land on the new site. Repo history is kept; do not treat this as the active marketing site.
 
 ## Contact
 
